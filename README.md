@@ -1,4 +1,15 @@
 <h1 align="center">Hello Cambada! 👋</h1>
+
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=ProfJoeVieira&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+visitor!;Take+a+sit!;and+drink+a+cup+of+coffee!;Make+yourself+at+home!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
+
+
 <h3 align="center">I'm Joe, a Postgraduate Network Engineering student, also a designer and ex English and Informatic Teacher trying to develop my skills in DevOp and Artifical Intelligence nowadays.</h3>
 
 <div align="center">
