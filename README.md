@@ -15,14 +15,16 @@
 #
 
 <div align="center">
-  <a href="https://github.com/seiler-emerson">
+  <a href="https://github.com/ProfJoeVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfJoeVieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfJoeVieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 #
-## Technologies I use in my day
 
+<h3 align="center"> Technologies I use in my day</h3>
+
+<div align="center">
 <img align="center" alt="Java" height="30" width="30" src="./img/icons/java.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
 <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
@@ -37,7 +39,7 @@
 <!-- <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif"> -->
   
 <br/>
-
+</div>
 
 </div>
 
@@ -52,4 +54,6 @@
 </div>
 <h3 align="center">_________________________________________________________________________________________________</h3>
   
-![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
+
+   ![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
+
