@@ -12,22 +12,37 @@
 
 <h3 align="center">I'm Joe, a Postgraduate Network Engineering student, also a designer and ex English and Informatic Teacher trying to develop my skills in DevOp and Artifical Intelligence nowadays.</h3>
 
+#
+
 <div align="center">
+  <a href="https://github.com/seiler-emerson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfJoeVieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfJoeVieira&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
-![Python](https://img.shields.io/badge/-Python-blue)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
+#
+## Technologies I use in my day
+
+<img align="center" alt="Java" height="30" width="30" src="./img/icons/java.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
+<img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
+<img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
+<img align="center" alt="css3" height="30" width="40" src="./img/icons/css3.svg">
+<img align="center" alt="Git" height="30" width="40" src="./img/icons/git.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="./img/icons/github.svg">
+<img align="center" alt="Linux" height="30" width="40" src="./img/icons/linux.svg">
+<img align="center" alt="Trello" height="30" width="40" src="./img/icons/trello.svg">
+<img align="center" alt="Notion" height="30" width="30" src="./img/icons/notion.png">
+<!-- <img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg"> -->
+<!-- <img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png"> -->
+<!-- <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif"> -->
+  
+<br/>
 
 
 </div>
 
-<h3 align="center">📫 How to Reach me</h3>
+<h3 align="center">📫 How to reach me</h3>
 
 <div align="center">
 
@@ -36,3 +51,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-profjoevieirajr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profjoevieirajr@gmail.com)](mailto:profjoevieirajr@gmail.com)
 
 </div>
+__________________________________________________________________________________________________________________________
+  
+![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
