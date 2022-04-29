@@ -50,6 +50,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-profjoevieirajr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profjoevieirajr@gmail.com)](mailto:profjoevieirajr@gmail.com)
 
 </div>
-__________________________________________________________________________________________________________________________
+<h3 align="center">_________________________________________________________________________________________________</h3>
   
 ![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
