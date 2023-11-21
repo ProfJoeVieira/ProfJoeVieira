@@ -48,12 +48,10 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-/joevieirajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joevieirajr/)](https://www.linkedin.com/in/joevieirajr/)
-[![Instagram Badge](https://img.shields.io/badge/-/joevieirajr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joevieirajr/)](https://instagram.com/joevieirajr)
 [![Gmail Badge](https://img.shields.io/badge/-profjoevieirajr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profjoevieirajr@gmail.com)](mailto:profjoevieirajr@gmail.com)
 
 </div>
 <h3 align="center">_________________________________________________________________________________________________</h3>
   
 
-   ![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
 
